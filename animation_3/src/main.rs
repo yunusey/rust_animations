@@ -1,5 +1,4 @@
 use macroquad::prelude::*;
-use macroquad::text::*;
 
 pub mod particle_system;
 pub mod particle;
